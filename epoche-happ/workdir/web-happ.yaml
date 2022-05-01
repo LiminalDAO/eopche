@@ -1,0 +1,7 @@
+---
+manifest_version: "1"
+name: epoche-happ
+ui:
+  bundled: "../ui/dist.zip"
+happ_manifest:
+  bundled: "./epoche-happ.happ"
